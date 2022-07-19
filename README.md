@@ -1,5 +1,21 @@
 # wecode_numbers_api
 
+## Numbers App Api
+put a number and receive and interesting fact about number
+
+
+### TODO
+- [x] init
+- [x] folder structure 
+- [] Design the landing page 
+- [] Test on postman
+- [] from json create data model
+- [] implement the get request( number input )
+- [] convert it to data Model
+- [] show tothe user
+
+
+
 A new Flutter project.
 
 ## Getting Started
