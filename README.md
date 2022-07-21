@@ -15,6 +15,9 @@ put a number and receive and interesting fact about number
 - [] show tothe user
 
 
+## API
+http://numbersapi.com/42
+
 
 A new Flutter project.
 
